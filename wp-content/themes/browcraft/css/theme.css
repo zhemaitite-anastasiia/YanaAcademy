@@ -6933,6 +6933,7 @@ ul.socials li:before{
 	width: 100%;
 	height: auto;
 	vertical-align: top;
+	padding:10px;
 }
 .portf_item_inner {
 	position: relative;
