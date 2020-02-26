@@ -4976,7 +4976,7 @@ ul.recent_posts li:first-child {
 /* Footer Widgets */
 .footer_widgets .widget_title,
 .footer_widgets .textwidget {
-	text-align: left;
+	text-align: center;
 }
 .footer_widgets .textwidget > img {
 	margin: -8px 0 42px 0;
@@ -4987,10 +4987,9 @@ ul.recent_posts li:first-child {
 }
 .footer_widgets .widget_title {
 	padding-top: 37px;
-	padding-bottom: 5px;
-	font-size: 18px;
+
 	font-weight: 700;
-	line-height: 30px;
+	
 }
 .textwidget h4 {
 	font-weight: 400;
