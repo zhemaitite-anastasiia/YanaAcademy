@@ -278,7 +278,7 @@
 				background:#ffffff;
 			}
 			.back2top {
-				background-color:#8e6d0fd6;
+				background-color:#d0a4b1;
 			}
 			.back2top:hover {
 				background-color:#5c656d;
@@ -679,7 +679,7 @@
 			.widget_recent_comments ul > li:hover:before,
 			.widget_recent_entries ul li a:hover,
 			.pf_output_container a.featured_video_play:after{
-				color: #8e6d0fd6;
+				color: #bd94a8;
 			}
 			ul.socials li a i,
 			.widget_tag_cloud .tagcloud a,
